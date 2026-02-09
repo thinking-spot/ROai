@@ -1,4 +1,4 @@
-# AI ROI Analytics Platform
+# ROai - AI ROI Analytics for Businesses
 
 A comprehensive SaaS platform that helps businesses measure and demonstrate ROI from AI tool implementations.
 
