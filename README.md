@@ -184,4 +184,4 @@ Proprietary - All rights reserved
 
 ## Contact
 
-[Your contact information]
+James - james.matthew.ladd@gmail.com
